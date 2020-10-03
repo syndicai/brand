@@ -1,2 +1,2 @@
 # brand
-Public branding assets for syndicai products 
+This repository contains all kinds of branding assets for our GitHub repositories.
